@@ -108,3 +108,44 @@ I actively explore and build projects around:
 - Frontend Architecture
 - Performance Optimization
 - Modern Development Practices
+
+## What I Build
+
+### Mobile Applications
+
+- Production-ready Android and iOS applications.
+- Cross-platform applications using React Native.
+- High-performance and scalable mobile solutions.
+
+
+### Frontend Applications
+
+- Responsive and reusable frontend architectures.
+- Modern and maintainable user interfaces.
+- Component-based application development.
+
+
+### Application Architecture
+
+- Scalable project structures.
+- Clean and reusable code practices.
+- State management using Redux and Redux Toolkit.
+- API integration and data handling strategies.
+
+
+### Performance Optimization
+
+- Application performance improvements.
+- Memory usage optimization.
+- Crash analysis and debugging.
+- Production issue troubleshooting.
+
+
+### Mobile Release Management
+
+- Play Store and App Store deployments.
+- Version management and release cycles.
+- CI/CD based application delivery.
+- Third-party SDK integrations.
+
+  
