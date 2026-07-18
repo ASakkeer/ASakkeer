@@ -148,4 +148,28 @@ I actively explore and build projects around:
 - CI/CD based application delivery.
 - Third-party SDK integrations.
 
-  
+## Professional Highlights
+
+- 8+ years of professional software development experience.
+- 5+ years specializing in React Native application development.
+- Built and delivered 10+ production-ready mobile applications.
+- Experienced in developing and maintaining Android and iOS applications.
+- Worked across complete application lifecycles, from development to production releases.
+- Hands-on experience with Play Store and App Store deployment processes.
+- Designed scalable and reusable frontend architectures and component libraries.
+- Integrated REST APIs, third-party SDKs, and native mobile capabilities.
+- Experienced in performance optimization, debugging, and crash analysis.
+- Worked closely with product, design, and backend teams in Agile environments.
+- Mentored junior developers through code reviews and technical discussions.
+- Passionate about building clean, maintainable, and scalable software solutions.
+
+## Github Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=ASakkeer&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ASakkeer&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASakkeer&layout=compact&theme=transparent&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ASakkeer&theme=github-compact&hide_border=true)
+
