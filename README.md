@@ -54,3 +54,57 @@ Senior Software Engineer | React Native Developer | Frontend Engineer
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Featured Projects
+
+### Portfolio Website
+
+> A personal portfolio showcasing my professional experience, technical skills, projects, and development journey.
+
+**Visit:** https://sakkeer.com
+
+
+### Simple Web Tools
+
+> A collection of developer-friendly web utilities built to improve day-to-day productivity.
+
+**Features**
+
+- JSON Formatter
+- Word Counter
+- Text Difference Checker
+- Lightweight and Responsive UI
+- Built using modern frontend technologies
+
+**Visit:** https://tools.sakkeer.com
+
+
+### React Native Applications
+
+Over the last 5+ years, I have contributed to building and maintaining production-ready mobile applications for Android and iOS.
+
+**Worked On**
+
+- REST API Integrations
+- Push Notifications
+- Payment Gateway Integrations
+- Native Module Integrations
+- Offline Data Handling
+- Performance Optimization
+- Application Architecture Design
+- Play Store & App Store Releases
+- CI/CD based Release Management
+- Third Party SDK Integrations
+
+
+### Open Source & Learning Projects
+
+I actively explore and build projects around:
+
+- React Native
+- React.js
+- TypeScript
+- JavaScript
+- Frontend Architecture
+- Performance Optimization
+- Modern Development Practices
