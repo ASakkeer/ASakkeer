@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=900\&lines=Senior+Software+Engineer;8%2B+Years+of+Experience;React+Native+Developer;Frontend+Engineer;Android+%26+iOS+Specialist;Building+Production+Ready+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=900\&lines=Senior+Software+Engineer;8%2BYears+of+Experience;React+Native+Developer;Frontend+Engineer;Android+%26+iOS+Specialist;Building+Production+Ready+Applications)](https://git.io/typing-svg)
 
 # Hi, I'm Sakkeer A 👋
 
