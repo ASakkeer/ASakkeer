@@ -17,7 +17,7 @@ Senior Software Engineer | React Native Developer | Frontend Engineer
 
 ## About Me
 
-* Senior Software Engineer with 8+ years of professional experience.
+* Senior Software Engineer with 8 years of professional experience.
 * Specialized in React Native development for the last 5+ years.
 * Built and maintained production-ready Android and iOS applications.
 * Experienced in performance optimization, mobile architecture design, and API integrations.
@@ -30,9 +30,9 @@ Senior Software Engineer | React Native Developer | Frontend Engineer
 
 | Category                | Experience    |
 | ----------------------- | ------------- |
-| Total Experience        | 8+ Years      |
+| Total Experience        | 8 Years      |
 | React Native            | 5+ Years      |
-| Frontend Development    | 8+ Years      |
+| Frontend Development    | 8 Years      |
 | Mobile Platforms        | Android & iOS |
 | Production Applications | 10+           |
 | Play Store Releases     | Multiple      |
